@@ -1,0 +1,7 @@
+{
+    "editor.inlineSuggest.enabled": true,
+    "editor.snippetSuggestions": "none",
+    "editor.parameterHints.cycle": false,
+    "editor.parameterHints.enabled": false,
+    "editor.suggest.showTypeParameters": false
+}
